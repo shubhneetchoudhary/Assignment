@@ -1,0 +1,137 @@
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\appsettings.json
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.exe
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.deps.json
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.runtimeconfig.json
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.pdb
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.csproj.AssemblyReference.cache
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.AssemblyInfoInputs.cache
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.AssemblyInfo.cs
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.csproj.CoreCompileInputs.cache
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.Mamsys_Employee_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Mamsys_Employee_API.props
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mamsys_Employee_API.props
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mamsys_Employee_API.props
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\scopedcss\bundle\Mamsys_Employee_API.styles.css
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.csproj.CopyComplete
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\refint\Mamsys_Employee_API.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.pdb
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.genruntimeconfig.cache
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\ref\Mamsys_Employee_API.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Humanizer.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Webtel Assesment\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\refint\Mamsys_Employee_API.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.pdb
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\appsettings.json
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.exe
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.deps.json
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.runtimeconfig.json
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Mamsys_Employee_API.pdb
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.csproj.AssemblyReference.cache
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.AssemblyInfoInputs.cache
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.AssemblyInfo.cs
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.csproj.CoreCompileInputs.cache
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.Mamsys_Employee_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Mamsys_Employee_API.props
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mamsys_Employee_API.props
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mamsys_Employee_API.props
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\scopedcss\bundle\Mamsys_Employee_API.styles.css
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.csproj.CopyComplete
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\refint\Mamsys_Employee_API.dll
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.pdb
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\Mamsys_Employee_API.genruntimeconfig.cache
+C:\Users\subhn\OneDrive\Desktop\Mamsys_Employee_API\Mamsys_Employee_API\obj\Debug\net6.0\ref\Mamsys_Employee_API.dll
